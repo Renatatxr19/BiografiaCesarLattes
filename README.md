@@ -12,5 +12,5 @@ Este projeto consiste em uma **landing page** dedicada à biografia de **César 
 O objetivo dessa landing page é **apresentar de maneira clara e concisa** a vida e as contribuições científicas de César Lattes. A página é projetada para ser simples, clara e acessível, com foco na **usabilidade** e na **visibilidade** de informações importantes sobre sua trajetória.
 
 1. **acesso:**
-   ```bash
+   
    
